@@ -142,16 +142,3 @@ Unlock permanent upgrades using earned skill points:
 - Optimize for mobile screen sizes
 
 ---
-
-## 📄 License *(Optional but recommended)*
-Add an open-source license here when publishing the code publicly.
-
----
-
-Let me know if you'd like me to help generate:
-- A full GitHub-style README with badges
-- Folder structure suggestions
-- Sample code outline
-- Or convert this into a design document PDF
-
-Happy coding! 🐍🎮
