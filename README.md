@@ -1,6 +1,3 @@
-Great! You've already created a comprehensive `.md` (Markdown) file that outlines the **Random Blocks Game**. Here's your content formatted cleanly and properly structured for better readability as a `README.md` or design document:
-
----
 
 # 🎮 Random Blocks Game
 
